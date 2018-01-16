@@ -1,2 +1,2 @@
-# whattup-world
-README
+
+Public Class String;
